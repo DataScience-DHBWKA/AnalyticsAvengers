@@ -2,20 +2,23 @@
 - AnalyticsAvengers
 
 Lukas Gögele
+8187666
 
 Ömer Gürleyen 
-
-Nuri Görkem Yaman
+6632474
 
 Louis Wolf
+9919964
 
+Nuri Görkem Yaman
+3105635
 
-Möglicher Datensatz Kaggle: https://www.kaggle.com/datasets/eugeniyosetrov/renewable-power-plants?resource=download
+Datensatz Kaggle: https://www.kaggle.com/datasets/eugeniyosetrov/renewable-power-plants?resource=download
 Renewable power plants
 
 Visualisierung:
 -   Jupyter Notebook
--   Flourish Visualisation
+-   Flourish Visualization
 
 Geplannte Darstellungen: 
 - Heat Map
@@ -24,3 +27,4 @@ Geplannte Darstellungen:
 - Top 5 Gemeinden 
 - Bundesländerranking
 - Ländervergleich
+- Bar Chart Race
