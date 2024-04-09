@@ -20,11 +20,26 @@ Visualisierung:
 -   Jupyter Notebook
 -   Flourish Visualization
 
-Geplannte Darstellungen: 
-- Heat Map
-- Anzahl an Energiequellen nach Betreibern 
-- Art der Energiequelle  
-- Top 5 Gemeinden 
-- Bundesländerranking
-- Ländervergleich
-- Bar Chart Race
+Geplannte Darstellungen:
+
+Jupyter Notebook  
+  Deutschland:
+    - Heat Map
+    - Anzahl an Energiequellen nach Betreibern 
+    - Art der Energiequelle  
+    - Elektrische Kapazität nach Regionen
+    - Bundesländerranking
+  Europäische Union (EU):
+    - Heatmap
+    - Art der Energiequelle
+    - Ländervergleich
+Flourish
+  Dänemark:
+    - Heatmap
+    - Art der Energiequelle
+  Bar Chart Race
+Vergleich Python vs. Flourish
+  Frankreich:
+    - Heatmap
+    - Säulendiagramm (Art der Energiequelle)
+
